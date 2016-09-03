@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	height: 100%;
+	margin-bottom: 55px;
+}
+
+.hd {
+	padding-top: 2em;
+}
+
+.page_title {
+	text-align:center;
+	font-size:27px;
+	color:#3cc51f;
+	font-weight:400;
+}
+
+.page_desc {
+	text-align:center;
+	color:#888;
+	font-size:14px
+}
+
+img {
+	max-width: 100%;
+}
+
+.weui_tab {
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	bottom: 0;
+}
+
+.weui_media_bd ul {
+	padding-left: 20%;
+	list-style-type: none;
+}
+
+.myForm {
+	margin-top: 0;
+}
+
+.top {
+	position: fixed;
+}
+
+.showItem {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.item {
+	max-height: 100%;
+	margin-top: 20px;
+}
+
+.itemImg {
+	height: 145px;
+}
+
+.description {
+	text-align: center;
+}
